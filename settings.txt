@@ -1,0 +1,7 @@
+card| BR,2,2,2
+players| 10,1000
+colors| ,,,,normal
+mechanics| 17,on,on,off,on,off
+clicked| 0_0
+admin| bj,,
+creation| ,,,,,,,,,,
